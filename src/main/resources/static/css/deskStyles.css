@@ -1,0 +1,16 @@
+body {
+    /*display: -ms-flexbox;*/
+    /*display: flex;*/
+    color: #363636;
+    background: url(../images/fon.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.background-style {
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px 10px 10px 10px;
+}
+
+.cards-style {
+    padding: 10px 10px 10px 10px;
+}

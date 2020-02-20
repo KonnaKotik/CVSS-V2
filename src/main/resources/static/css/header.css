@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    display: inline;
+}
+
+li {
+    float: left;
+}
+
+li {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li :hover {
+    background-color: #00b3ee;
+}
+
+form {
+    background: #a790ff;
+}
+
+.form-back{
+    background: rgba(255,255,255,0.5);
+    font-size: 14px;
+    margin: 0 0 22px;
+    overflow: auto;
+    padding: 20px;
+    text-align:center;
+}

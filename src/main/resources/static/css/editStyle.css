@@ -1,0 +1,11 @@
+body {
+    color: #363636;
+    background: url(../images/coffee.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.edit-container{
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px 10px 10px 10px;
+    width: 130%;
+}

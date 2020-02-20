@@ -1,0 +1,19 @@
+body {
+    /*display: -ms-flexbox;*/
+    /*display: flex;*/
+    color: #363636;
+    background: url(../images/donuts.jpg) center no-repeat;
+    background-size: cover;
+}
+
+.background-style {
+    background-color: rgba(255, 255, 255, 0.7);
+}
+
+.task-pic {
+    width: 40%;
+    height: 30%;
+}
+
+
+
